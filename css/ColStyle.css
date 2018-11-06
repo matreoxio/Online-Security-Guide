@@ -1,0 +1,82 @@
+
+.emailContent, .emailResultHider{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #000000;
+}
+.emailTutorial{
+	margin: 10px 0px;
+	padding: 20px;
+}
+
+.emailTutorial h2{
+	/*color: #0000cc; */
+	border-top: 2px solid #001433;
+	margin-top: 15px;
+	padding-top: 20px;
+}
+
+#contextHeader{
+	text-align: center;
+	height: 25%;
+	color: #0000cc;
+	padding-top: 5px; 
+	margin-top: 15px;
+}
+
+.mainEmailImg, .imgOnText{
+  width:120px;
+		height: 100px;
+		margin: 5px 5px 0 5px;
+		float: left;
+}
+
+.moreBtn, #submitSelection{
+	border: none;
+	height: 30px;
+	float: right;
+	padding: 0 15px;
+	margin: 30px 10px;
+	color: white;
+	background-color: gray;
+	border-radius: 3px;
+}
+
+.moreBtn:hover{
+	color: #FFFFFF;
+	background-color: black;
+}
+
+#submitSelection:hover{
+	color: #FFFFFF;
+	background-color: black;
+}
+
+#viewExampleAttLinks{
+	display: none;
+}
+
+#emailQuizQuestion, #emailTutHeading{
+	color: #b30000;
+	font-family: cursive;
+	margin-bottom: 5px;
+	margin-top: 0px;
+}
+
+.moreExample{
+	display: block;
+}
+
+#formEmailQuiz label{
+	font-weight: normal;
+}
+
+.fistRow{
+	margin-bottom: 10px;
+}
+#emailQuizProgress{
+	height: 25px;
+}
+#emailResultHider h1{
+	color: blue;
+}
